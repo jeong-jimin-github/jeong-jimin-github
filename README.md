@@ -1,9 +1,9 @@
 <h1 align="center">안녕하세요 저는 정지민이라고 합니다.</h1>
 <h3 align="center">현재 프로그래밍을 공부하고있는 중3입니다.</h3>
 
-- 🔭 진행중인 프로젝트 [Amadeus-System](https://github.com/jeong-jimin-github/Amadeus-System)
-
 - 🌱 배우고 있는 것 **Python, HTML, CSS, JS**
+
+- 🔭 진행중인 프로젝트 [Amadeus-System](https://github.com/jeong-jimin-github/Amadeus-System)
 
 - 🇯🇵 일본어 공부 관련 [kanji-test](https://github.com/jeong-jimin-github/kanji-test)
 
