@@ -15,7 +15,7 @@
 
 - 💬 Discord **空白#0871**
 
-- 📫 이메일 **jeongjimin0730@gmail.com**
+- 📫 이메일 **jmjeong10@gmail.com**
 
 <p align="left">
 </p>
