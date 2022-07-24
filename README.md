@@ -13,7 +13,7 @@
 
 - 📝 블로그 [https://blog.jeong-jimin.com](https://blog.jeong-jimin.com)
 
-- 💬 Discord **這い寄る混沌#0871**
+- 💬 Discord **空白#0871**
 
 - 📫 이메일 **jeongjimin0730@gmail.com**
 
