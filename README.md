@@ -1,7 +1,7 @@
-<h1 align="center">안녕하세요.</h1>
-<h3 align="center">현재 프로그래밍을 공부하고있는 고1 학생입니다.</h3>
+<h1 align="center">안녕하세요</h1>
+<h3 align="center">프로그래밍을 공부하고있는 고2 학생입니다.</h3>
 
-- 🌱 배우고 있는 것 **Python, HTML, CSS, JS**
+- 🌱 배우고 있는 것 **Python, HTML, CSS, JS, C#**
 
 - 🔭 진행중인 프로젝트 [Amadeus-System](https://github.com/jeong-jimin-github/Amadeus-System)
 
@@ -13,7 +13,7 @@
 
 - 📝 블로그 [https://blog.jeong-jimin.com](https://blog.jeong-jimin.com)
 
-- 💬 Discord **空白#0871**
+- 💬 Discord **kūhaku#0871**
 
 - 📫 이메일 **jmjeong10@gmail.com**
 
