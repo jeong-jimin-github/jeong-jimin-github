@@ -1,5 +1,5 @@
 <h1 align="center">안녕하세요</h1>
-<h3 align="center">프로그래밍을 공부하고있는 고2 학생입니다.</h3>
+<h3 align="center">프로그래밍을 공부하고있는 고3 학생입니다.</h3>
 
 - 🌱 배우고 있는 것 **Python, HTML, CSS, JS, C#**
 
