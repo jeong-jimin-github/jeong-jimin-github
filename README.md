@@ -13,4 +13,4 @@
 
 - 📫 이메일 **jmjeong10@gmail.com**
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xqypd44mdjvt3nq63rrr3lgvtu&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xqypd44mdjvt3nq63rrr3lgvtu&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
