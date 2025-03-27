@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **C#, Python, JS**
 
-- 📫 How to reach me **jmjeong10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>jmjeong10@gmail.com
 <p align="left">
