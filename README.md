@@ -59,7 +59,7 @@ Git · GitHub Actions · Windows · Linux / Termux
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=jeong-jimin-github&theme=transparent&hide_border=true" alt="GitHub streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeong-jimin-github&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub activity graph" />
 
 </div>
 
