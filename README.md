@@ -54,8 +54,12 @@ Git · GitHub Actions · Windows · Linux / Termux
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jeong-jimin-github&show_icons=true&hide_border=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeong-jimin-github&layout=compact&hide_border=true" height="165" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeong-jimin-github&theme=transparent" height="165" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeong-jimin-github&theme=transparent" height="165" alt="Top languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=jeong-jimin-github&theme=transparent&hide_border=true" alt="GitHub streak" />
 
 </div>
 
